@@ -603,7 +603,7 @@ h3.future-women:before {
 	font-size: 1.3em;
   width: 47%;
   margin: 0 auto;
-  font-weight: 600;
+  font-weight: 800;
   line-height: 1.8em;
 }
 i.round{
@@ -1446,7 +1446,7 @@ a.at-in {
 
 /*--footer--*/
 .footer-top{
-	background:#535253;
+	background:#aa9b77;
 	padding:2em 0;
 }
 a.theme{
