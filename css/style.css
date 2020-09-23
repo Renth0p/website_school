@@ -32,7 +32,7 @@ h1,h2,h3,h4,h5,h6,label,p{
 }
 .logo{
 	float: left;
-	margin-top: 0.6em;
+	margin-top: 0.1em;
 }
 .header-top {
   padding: 0 3em;
@@ -337,7 +337,7 @@ text-decoration:underline;
 	width: 30px;
 	height: 30px;
 	outline: none;
-	border: 3px solid #aa9b77;
+	border: 3px solid #08a2c4;
 	background: #fff;
 	border-radius:3px;
 }
@@ -423,7 +423,7 @@ text-decoration:underline;
   transition-duration: 0.3s;
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
-    background: #aa9b77;
+    background: #08a2c4;
 	 border-radius: 3px;
   -webkit-border-radius: 3px;
   -o-border-radius: 10px;
@@ -454,8 +454,8 @@ h3.future,h3.future-in {
 h3.future:after,h3.future-in:before {
   content: "";
   background: #ccc;
-  width: 95%;
-  height: 2px;
+  width: 90%;
+  height: 1.5px;
   display: inline-block;
   vertical-align: middle;
 }
@@ -475,7 +475,7 @@ h3.future-in:before {
 }
 .value-in p{
 	float:left;
-	color:#aa9b77;
+	color:#08a2c4;
 	font-size:1em;
 	font-weight:450;
 	text-transform:uppercase;
@@ -491,7 +491,7 @@ h3.future-in:before {
 	margin:0 auto;
 }
 .men-grid:hover{
-	border:6px solid #aa9b77;
+	border:6px solid #08a2c4;
 }
 
 .drop-down {
@@ -896,7 +896,7 @@ span.in-sed{
 }
 /* start desc1 */
 .desc1 h3{
-	color:#aa9b77;
+	color:#08a2c4;
 	font-size:2em;
 	margin-bottom: 10px;
 	font-weight:700;
@@ -905,7 +905,7 @@ span.in-sed{
 .desc1 h5{
 	margin-top: 2%;
 	font-size: 1.6em;
-	color: #aa9b77;
+	color: #08a2c4;
 	font-weight:700;
 }
 .desc1 h5 a{
@@ -1000,7 +1000,7 @@ ul.place li{
 }
 ul.place li {
 	font-size: 1em;
-	color: #aa9b77;
+	color: #08a2c4;
 	text-decoration: none;
 	cursor: pointer;
 		font-weight:700;
@@ -1446,7 +1446,7 @@ a.at-in {
 
 /*--footer--*/
 .footer-top{
-	background:#aa9b77;
+	background:#08a2c4;
 	padding:2em 0;
 }
 a.theme{
@@ -1465,7 +1465,7 @@ a.theme i{
 }
 .footer-bottom{
 	background:#424242;
-	padding:3em 0;
+	padding:7.5em 0;
 	color:#fff;
 }
 .footer-grid{
@@ -1507,7 +1507,7 @@ p.footer-class{
 	padding:0.5em 0 0;
 }
 p.footer-class a{
-	color:#aa9b77;
+	color:#08a2c4;
 	text-decoration:none;
 }
 p.footer-class a:hover{
@@ -1629,7 +1629,7 @@ i.round {
   width: 63%;
 }
 h3.future:after {
-  width: 92%;
+  width: 90%;
 }
 h3.future-in:before {
   width: 85%;
@@ -1735,7 +1735,7 @@ i.round {
   padding: 0.5em 1em;
 }
 h3.future:after {
-  width: 89%;
+  width: 79%;
 }
 h3.future-in:before {
   width: 82%;
@@ -1981,7 +1981,7 @@ a.down {
   font-size: 0.9em;
 }
 h3.future, h3.future-in,h3.future-men, h3.future-women {
-  font-size: 1.2em;
+  font-size: 0.5em;
 }
 h3.future-in:before {
   width: 74%;
