@@ -632,7 +632,7 @@ i.round{
 	font-weight:800;
 }
 .top-about h5 a{
-	color:#aa9b77;
+	color:#08a2c4;
 	text-decoration:none;
 }
 .top-about h5 a:hover{
@@ -663,7 +663,7 @@ i.round{
 span.in-sed{
 	font-size: 1.8em;
 	color: #fff;
-	background: #aa9b77;
+	background: #08a2c4;
 	width: 45px;
 	height: 45px;
 	text-align: center;
@@ -673,7 +673,7 @@ span.in-sed{
 }
 .left-sit h6 a{
 	text-decoration:none;
-	color:#aa9b77;
+	color:#08a2c4;
 	font-weight: 600;
 }
 .left-sit h6 a:hover{
@@ -706,7 +706,7 @@ span.in-sed{
 	font-weight: 600;
 }
 .team-top h6 a{
-	color: #aa9b77;
+	color: #08a2c4;
 	text-decoration:none;
 }
 .team-top h6 a:hover{
@@ -723,7 +723,7 @@ span.in-sed{
 /*--privacy--*/
 .privacy-top h3{
 	font-size: 3em;
-	color: #aa9b77;
+	color: #08a2c4;
 	font-weight: 700;
 	text-align:center;
 }
@@ -752,7 +752,7 @@ span.in-sed{
 /*--contact--*/
 .contact h2{
 	font-size: 3em;
-	color: #aa9b77;
+	color: #08a2c4;
 	font-weight: 700;
 	text-align:center;
 }
@@ -799,7 +799,7 @@ span.in-sed{
 	background:#f9f9f9;
 }
 .name-in input[type="text"]:hover,.name-on textarea:hover{
-	border-color:#aa9b77;
+	border-color:#08a2c4;
 }
 .name-on textarea{
 	width:100%;
@@ -821,7 +821,7 @@ span.in-sed{
 	padding: 3em 0 0;
 }
 .contact-form input[type="submit"]{
-	background: #aa9b77;
+	background: #08a2c4;
 	color: #FFF;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -845,7 +845,7 @@ span.in-sed{
 	padding: 6em 3em;
 }
 .contact-right h3,.contact-form h3{
-	color:#aa9b77;
+	color:#08a2c4;
 	font-size:1.2em;
 	text-transform: uppercase;
 	padding:0 0 0.7em;
