@@ -302,8 +302,8 @@ text-decoration:underline;
 }
 /*----*/
 .content-top{
-	background:#f5f6f7;
-	padding:3em 0;
+	background:#08a2c4;
+	padding:1.5em 0;
 }
 
 .checkbox {
@@ -465,6 +465,7 @@ h3.future-in:before {
 .content-grid {
   padding: 6em 0 0;
 }
+
 /*----*/
 .men-grid{
 	background:#f5f6f7;
@@ -1443,7 +1444,6 @@ a.at-in {
   font-weight: 700;
   text-align: center;
 }
-
 /*--footer--*/
 .footer-top{
 	background:#08a2c4;
